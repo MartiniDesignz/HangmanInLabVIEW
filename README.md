@@ -1,5 +1,5 @@
 # Hangman In Labview
-I created hangman using LabVIEW because I enjoy self harm.
+I created hangman using LabVIEW.
 
 ## Block Diagram: ![](https://github.com/MartiniDesignz/HangmanInLabVIEW/blob/master/Images/Hangman%20Block%20Diagram.JPG?raw=true)
 
